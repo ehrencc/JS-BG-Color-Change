@@ -1,0 +1,17 @@
+body{
+    background-color: teal;
+    
+}
+.container{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+button{
+    background-color: transparent;
+    padding: 15px;
+    border-radius: 5px;
+    border:1px solid #333333;
+    font-size: 30px;
+}
